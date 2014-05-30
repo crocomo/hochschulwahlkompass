@@ -20,20 +20,12 @@ function init() {
 	pcount = wom.parteien.length;
 
 	$.each(wom.thesen, function (index, these) {
-		var text = these.text2;
-		text = text.replace(/\{/g, '<strong>');
-		text = text.replace(/\}/g, '</strong>');
-
-		if (these.reverse) {
-			var a = wom.thesenparteien[index];
-			for (var i = 0; i < a.length; i++) a[i] *= -1;
-		}
-
 		var html =
 			'<div class="questionbox clearfix" name="questionbox_'+index+'" >'+
 				'<div class="form-group">'+
 					'<div class="col-sm-7 col-md-8">'+
-						'<p class="question">'+text+'</p>'+
+						'<p class="question">'+these.text+'</p>'+
+						(these.info === undefined?'':'<p class="description">'+these.info+'</p>')+
 					'</div>'+
 					'<div class="col-sm-5 col-md-4 answer-col">'+
 						'<div class="btn-group answer" data-toggle="buttons">'+
@@ -64,7 +56,7 @@ function init() {
 		});
 	});
 
-   initChart();
+	initChart();
 
 	readLocalData(parameters);
 	updateFromData();
@@ -97,7 +89,10 @@ function init() {
 	})
 
 	$('#btnshare').click(function () {
-		$('#url').val('http://apps.opendatacity.de/wahl/#'+parameters.encode());
+		$('#url').val('http://hochschulwahl-o-mat.de/#'+parameters.encode());
+		$('#twitter').attr('href','https://twitter.com/intent/tweet?text=Am%20Mittwoch%2C%20den%2025.%20Juni%20ist%20Hochschulwahl%20an%20der%20%23UniErlangen%20-%20meine%20Standpunkte%20sind%20auf%20http%3A%2F%2Fhochschulwahl-o-mat.de%2F%23'+parameters.encode());
+		$('#facebook').attr('href','http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fhochschulwahl-o-mat.de%2F%23'+parameters.encode()+'&amp;t=Am%20Mittwoch%2C%20den%2025.%20Juni%20ist%20Hochschulwahl%20an%20der%20%23UniErlangen%20-%20meine%20Standpunkte%20sind%20auf%20http%3A%2F%2Fhochschulwahl-o-mat.de%2F%23'+parameters.encode());
+		$('#googleplus').attr('href','https://plus.google.com/share?url=http%3A%2F%2Fhochschulwahl-o-mat.de%2F%23'+parameters.encode());
 		$('#myModal').modal();
 	})
 
@@ -140,7 +135,6 @@ function calcMatching(p) {
 	$('#chart').css('width', width);
 
 	if ($('body').hasClass('hideresult')) return;
-
 	var parteiMatch = [];
 	for (var i = 0; i < pcount; i++) {
 		var v = 0;
@@ -148,7 +142,7 @@ function calcMatching(p) {
 		for (var j = 0; j < count; j++) {
 			var dv = 0;
 			var ds = 0;
-			var parteiValue = wom.thesenparteien[j][i];
+			var parteiValue = wom.thesenparteien[i][j];
 			switch (p.answers[j]) {
 				case  1: dv = Math.abs(parteiValue - 1); ds = 2; break;
 				case -1: dv = Math.abs(parteiValue + 1); ds = 2; break;
@@ -165,28 +159,28 @@ function calcMatching(p) {
 			data: wom.parteien[i]
 		}
 	}
-
 	for (var j = 0; j < count; j++) {
 		var markers = wom.thesen[j].markers;
 		markers.empty();
 		for (var i = 0; i < pcount; i++) {
 			var partei = wom.parteien[i];
 			if (parameters.selectedParties[i]) {
-				var parteiValue = wom.thesenparteien[j][i];
+				var parteiValue = wom.thesenparteien[i][j];
 				var node;
 				switch (parteiValue) {
 					case  1: node = markers.eq(0); break;
 					case  0: node = markers.eq(1); break;
 					case -1: node = markers.eq(2); break;
 				}
-				node.append($(getMarker(partei)));
+				node.append($(getMarker(partei,wom.kommentar[i][j])));
 			}
 		}
 	}
 
 	$('#questions .marker').tooltip({
 		animation: false,
-		placement: 'bottom'
+		placement: 'bottom',
+		html: true,
 	});
 
 	parteiMatch.sort(function (a,b) {
@@ -199,7 +193,7 @@ function calcMatching(p) {
 	var left = 0;
 	$.each(parteiMatch, function (index, partei) {
 		var marked = parameters.selectedParties[partei.data.index];
-		var value = 100-100*partei.distance;
+		var value = 100-100*(isNaN(partei.distance)?1:partei.distance);
 
 		wom.parteien[partei.data.index].shouldSelected = (index < 5);
 
@@ -228,16 +222,20 @@ function initChart() {
 		parameters.selectedParties[index] = false;
 
 		var node = $(
-			'<div class="partei" style="left:'+(index*parteiWidth)+'px">'+
+			'<div id="partei_'+partei.title+'" class="partei" style="left:'+(index*parteiWidth)+'px">'+
 				'<div class="barborder">'+
 					'<div class="barinner" style="height:0%"></div>'+
 				'</div>'+
 				'<div class="title">'+partei.title+' - <span>0</span>%</div>'+
 				'<div class="icon">'+
-					'<img src="images/32/'+partei.id+'.png">'+
+					'<img src="images/thumb_'+partei.id+'.png">'+
 				'</div>'+
 				'<div class="markers">'+
-					getMarker(partei)+
+					'<div class="marker" style="'+
+						'background-color:#'+partei.fill+';'+
+						'border-color:#'+(partei.stroke ? partei.stroke : partei.fill)+
+						'" title="'+partei.text+'">'+
+					'</div>'+
 				'</div>'+
 			'</div>'
 		);
@@ -251,15 +249,16 @@ function initChart() {
 			parameters.selectedParties[index] = !parameters.selectedParties[index];
 			calcMatching(parameters);
 		})
+		node.popover({container: 'body', placement: 'top', content: '<div class="parteiinfo"><img src="images/'+partei.id+'.png"></img><div>Verantwortlich: '+partei.contact+'</div></div>', title: partei.text, trigger: "hover", html: true});
 	});
 }
 
-function getMarker (partei) {
+function getMarker (partei, text) {
 	html =
 		'<div class="marker" style="'+
 		'background-color:#'+partei.fill+';'+
 		'border-color:#'+(partei.stroke ? partei.stroke : partei.fill)+
-		'" title="'+partei.title+'"></div>';
+		'" title="<b>'+partei.title+'</b>: '+text+'"></div>';
 	return html;
 }
 

@@ -1,0 +1,568 @@
+body {
+	background: url(images/siegel.png), rgb(245,236,193); /* Old browsers */
+	background: url(images/siegel.png), -moz-linear-gradient(top,  rgba(245,236,193,1) 0%, rgba(255,255,255,1) 100%); /* FF3.6+ */
+	background: url(images/siegel.png), -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(245,236,193,1)), color-stop(100%,rgba(255,255,255,1))); /* Chrome,Safari4+ */
+	background: url(images/siegel.png), -webkit-linear-gradient(top,  rgba(245,236,193,1) 0%,rgba(255,255,255,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: url(images/siegel.png), -o-linear-gradient(top,  rgba(245,236,193,1) 0%,rgba(255,255,255,1) 100%); /* Opera 11.10+ */
+	background: url(images/siegel.png), -ms-linear-gradient(top,  rgba(245,236,193,1) 0%,rgba(255,255,255,1) 100%); /* IE10+ */
+	background: url(images/siegel.png), linear-gradient(to bottom,  rgba(245,236,193,1) 0%,rgba(255,255,255,1) 100%); /* W3C */
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	background-attachment: fixed;
+}
+
+#header {
+	margin: 0px 0px 200px 0px;
+	padding: 20px;
+}
+
+#head {
+	margin-bottom: 10px;
+	padding: 70px 0px 20px 0px;
+
+	background: rgb(214,69,25); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(214,69,25,0.5) 0%, rgba(214,69,25,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(214,69,25,1)), color-stop(100%,rgba(214,69,25,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(214,69,25,1) 0%,rgba(214,69,25,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(214,69,25,1) 0%,rgba(214,69,25,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(214,69,25,1) 0%,rgba(214,69,25,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(214,69,25,.5) 0%,rgba(214,69,25,1) 100%); /* W3C */
+	-moz-box-shadow: 10px 10px 5px #888;
+	-webkit-box-shadow: 10px 10px 5px #888;
+	box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
+}
+
+#head h1 {
+	color: #fff;
+	font-weight: bold;
+	margin-top: 0px;
+	font-size: 32px;
+}
+
+#head h2 {
+	margin-top: 0px;
+	font-size: 18px;
+}
+
+#head .text {
+	margin-top: 10px;
+}
+
+.tipp {
+	font-size: 12px;
+	color:#666666;
+	font-style: italic;
+}
+
+a.socialshare img{
+	border: 1px solid #222222; 
+	border-radius: 4px;
+	height: 34px;
+}
+
+a.socialshare img{
+	border: 1px solid #222222; 
+	border-radius: 4px;
+	height: 34px;
+}
+
+#social {
+	margin-bottom: 100px;
+	text-align: right;
+	padding-right: 10px;
+}
+
+#social img {
+	width: 30px;
+	height: 30px;
+	border-radius: 4px;
+}
+
+#social a,
+a.socialshare {
+	text-decoration: none;
+	-moz-opacity: 0.5 !important;
+	-webkit-opacity: 0.5!important;
+	opacity: 0.5 !important;
+	-moz-transition-property: opacity;
+	-moz-transition-duration: 0.5s;
+	-webkit-transition-property: opacity;
+	-webkit-transition-duration: 0.5s;
+	-o-transition-property: opacity;
+	-o-transition-duration: 0.5s;
+	transition-property: opacity;
+	transition-duration: 0.5s;
+}
+
+#social a:hover,
+a.socialshare:hover {
+	-moz-opacity: 1.0 !important;
+	-webkit-opacity: 1.0!important;
+	opacity: 1.0 !important;
+}
+
+#content {
+	padding-bottom: 150px;
+}
+
+#contact {
+	font-size: 10px;
+	color:#666666;
+	padding:25px;
+}
+
+.questionbox {
+	padding: 10px;
+	margin-bottom: 30px;
+	background: #fff;
+	-moz-box-shadow: 10px 10px 5px #888;
+	-webkit-box-shadow: 10px 10px 5px #888;
+	box-shadow: 0px 5px 5px rgba(0,0,0,0.05);
+}
+
+.form-group {
+	max-width:1000px;
+	margin: auto;
+}
+
+@media (max-width: 767px) {
+}
+
+p.question {
+	margin: 0px;
+	padding-top: 5px;
+	font-size: 16px;
+	color: #444;
+	text-align: right;
+}
+
+p.description {
+	margin: 0px;
+	padding-top: 2px;
+	font-size: 12px;
+	color: #444;
+	text-align: right;
+}
+
+#questions .btn-default {
+	color: #888;
+}
+
+#questions .answer {
+	vertical-align: top;
+}
+
+#questions .answer label {
+	width: 64px;
+}
+
+#questions .answer label.active {
+	color: #333;
+	background-color: #ddd;
+	border-color: #aaa;
+}
+
+#questions .important {
+	display: inline-block;
+	margin-left: 10px;
+}
+
+#questions .important label {
+	padding: 6px 8px 6px 10px;
+}
+
+#questions .important label.active {
+	color: #333;
+	background-color: #ddd;
+	border-color: #aaa;
+}
+
+#questions .markerwrapper {
+	width: 192px;
+	height: 12px;
+	margin-top: 4px;
+	margin-bottom: -6px;
+}
+
+#questions .markers {
+	width: 64px;
+	float: left;
+}
+
+#questions .marker {
+	opacity: 1;
+	cursor:pointer;
+
+	-webkit-transition: opacity 0.5s ease-in;
+	   -moz-transition: opacity 0.5s ease-in;
+	    -ms-transition: opacity 0.5s ease-in;
+	     -o-transition: opacity 0.5s ease-in;
+	        transition: opacity 0.5s ease-in;
+}
+
+.markers {
+	height: 12px;
+	text-align: center;
+	font-size: 0;
+	line-height: 0;
+}
+
+.marker {
+	width: 12px;
+	height: 12px;
+	border-radius: 10px;
+	border: 2px solid #fff;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#chartwrapper {
+	position: fixed;
+	bottom: 0;
+	left: 0px;
+	right: 0px;
+	height: 265px;
+	z-index: 100;
+
+	background: #e8c07b;
+
+	box-shadow: 0px -5px 20px rgba(0,0,0,0.3);
+
+	-webkit-transition: bottom 0.5s ease-out;
+	   -moz-transition: bottom 0.5s ease-out;
+	    -ms-transition: bottom 0.5s ease-out;
+	     -o-transition: bottom 0.5s ease-out;
+	        transition: bottom 0.5s ease-out;
+}
+
+#chartwrapper .help {
+	top: 10px;
+	left: 10px;
+	right: 10px;
+	position: absolute;
+	text-align: center;
+	font-size: 12px;
+}
+
+#chartscroller {
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	height: 220px;
+	position:absolute;
+
+	overflow: hidden;
+}
+
+#chart {
+	position: relative;
+	margin: auto;
+
+	-webkit-transition: width 0.5s ease-in-out;
+	   -moz-transition: width 0.5s ease-in-out;
+	    -ms-transition: width 0.5s ease-in-out;
+	     -o-transition: width 0.5s ease-in-out;
+	        transition: width 0.5s ease-in-out;
+}
+
+.partei {
+	height: 156px;
+	width: 18px;
+	top: 25px;
+	position: absolute;
+	background: #fff;
+	border: 1px solid rgba(151, 163, 175, 0.7);
+	cursor: pointer;
+	overflow: hidden;
+
+	-webkit-transition-duration: 0.5s;
+	   -moz-transition-duration: 0.5s;
+	    -ms-transition-duration: 0.5s;
+	     -o-transition-duration: 0.5s;
+	        transition-duration: 0.5s;
+
+	-webkit-transition-timing-function: ease-in-out;
+	   -moz-transition-timing-function: ease-in-out;
+	    -ms-transition-timing-function: ease-in-out;
+	     -o-transition-timing-function: ease-in-out;
+	        transition-timing-function: ease-in-out;
+
+	-webkit-transition-property: left, top, height, width, border-color;
+	   -moz-transition-property: left, top, height, width, border-color;
+	    -ms-transition-property: left, top, height, width, border-color;
+	     -o-transition-property: left, top, height, width, border-color;
+	        transition-property: left, top, height, width, border-color;
+}
+
+.partei .markers {
+	width: 42px;
+	top: -35px;
+	left: -13px;
+	position: absolute;
+
+	-webkit-transition-duration: 0.5s;
+	   -moz-transition-duration: 0.5s;
+	    -ms-transition-duration: 0.5s;
+	     -o-transition-duration: 0.5s;
+	        transition-duration: 0.5s;
+
+	-webkit-transition-timing-function: ease-in-out;
+	   -moz-transition-timing-function: ease-in-out;
+	    -ms-transition-timing-function: ease-in-out;
+	     -o-transition-timing-function: ease-in-out;
+	        transition-timing-function: ease-in-out;
+
+	-webkit-transition-property: top, left;
+	   -moz-transition-property: top, left;
+	    -ms-transition-property: top, left;
+	     -o-transition-property: top, left;
+	        transition-property: top, left;
+}
+
+
+.barborder {
+	position: absolute;
+	top: 3px;
+	left: 3px;
+	width: 10px;
+	bottom: 3px;
+	background: #d4d5d7;
+
+	-webkit-transition-duration: 0.5s;
+	   -moz-transition-duration: 0.5s;
+	    -ms-transition-duration: 0.5s;
+	     -o-transition-duration: 0.5s;
+	        transition-duration: 0.5s;
+
+	-webkit-transition-timing-function: ease-in-out;
+	   -moz-transition-timing-function: ease-in-out;
+	    -ms-transition-timing-function: ease-in-out;
+	     -o-transition-timing-function: ease-in-out;
+	        transition-timing-function: ease-in-out;
+
+	-webkit-transition-property: left, top, bottom, width;
+	   -moz-transition-property: left, top, bottom, width;
+	    -ms-transition-property: left, top, bottom, width;
+	     -o-transition-property: left, top, bottom, width;
+	        transition-property: left, top, bottom, width;
+}
+
+.barinner {
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	width: 100%;
+	background: #ab8e5e;
+	border-top: 1px solid #fff;
+
+	-webkit-transition: height 0.5s ease-in-out;
+	   -moz-transition: height 0.5s ease-in-out;
+	    -ms-transition: height 0.5s ease-in-out;
+	     -o-transition: height 0.5s ease-in-out;
+	        transition: height 0.5s ease-in-out;
+}
+
+
+.title {
+	position: absolute;
+	left: 9px;
+	bottom: -2px;
+	color: rgba(0,0,0,0);
+	font-size: 12px;
+	white-space: nowrap;
+
+	-webkit-transition-duration: 0.5s;
+	   -moz-transition-duration: 0.5s;
+	    -ms-transition-duration: 0.5s;
+	     -o-transition-duration: 0.5s;
+	        transition-duration: 0.5s;
+
+	-webkit-transition-timing-function: ease-in-out;
+	   -moz-transition-timing-function: ease-in-out;
+	    -ms-transition-timing-function: ease-in-out;
+	     -o-transition-timing-function: ease-in-out;
+	        transition-timing-function: ease-in-out;
+
+	-webkit-transition-property: left, bottom;
+	   -moz-transition-property: left, bottom;
+	    -ms-transition-property: left, bottom;
+	     -o-transition-property: left, bottom;
+	        transition-property: left, bottom;
+
+	-webkit-transform: rotate(-90deg);
+	   -moz-transform: rotate(-90deg);
+	    -ms-transform: rotate(-90deg);
+	     -o-transform: rotate(-90deg);
+	        transform: rotate(-90deg);
+
+	-webkit-transform-origin: 0% 50%;
+	   -moz-transform-origin: 0% 50%;
+	    -ms-transform-origin: 0% 50%;
+	     -o-transform-origin: 0% 50%;
+	        transform-origin: 0% 50%;
+}
+
+.icon {
+	position: absolute;
+	left: -8px;
+	bottom: -34px;
+	width: 32px;
+	height: 32px;
+	background-position: -100px;
+	background-repeat: no-repeat;
+
+	-webkit-transition-duration: 0.5s;
+	   -moz-transition-duration: 0.5s;
+	    -ms-transition-duration: 0.5s;
+	     -o-transition-duration: 0.5s;
+	        transition-duration: 0.5s;
+
+	-webkit-transition-timing-function: ease-in-out;
+	   -moz-transition-timing-function: ease-in-out;
+	    -ms-transition-timing-function: ease-in-out;
+	     -o-transition-timing-function: ease-in-out;
+	        transition-timing-function: ease-in-out;
+
+	-webkit-transition-property: left, bottom;
+	   -moz-transition-property: left, bottom;
+	    -ms-transition-property: left, bottom;
+	     -o-transition-property: left, bottom;
+	        transition-property: left, bottom;
+}
+
+.icon img {
+	width:32px;
+	height:32px;
+}
+
+.parteiinfo {
+	width:100%;
+	margin:auto;
+	text-align:center;
+}
+
+.parteiinfo div {
+	padding-top:5px;
+	font-size:10px;
+}
+
+.partei.marked {
+	width: 44px;
+	top: 0px;
+	height: 215px;
+	border: 1px solid rgba(150, 0, 0, 1);
+}
+
+.partei.marked .barborder {
+	left: 10px;
+	top: 18px;
+	width: 22px;
+	bottom: 42px;
+}
+
+.partei.marked .barinner {
+	background: #d64519;
+}
+
+.partei.marked .markers {
+	top: 5px;
+	left: 0px;
+}
+
+.partei.marked .icon {
+	left: 5px;
+	bottom: 5px;
+}
+
+.partei.marked .title {
+	color: rgba(0,0,0,0.6);
+	left: 22px;
+	bottom: 40px;
+}
+
+.partei:hover .title {
+	color: rgba(0,0,0,0.6);
+}
+
+.partei.marked:hover .title {
+	color: rgba(0,0,0,0.6);
+}
+
+.hideresult #chartwrapper {
+	bottom: -265px;
+}
+
+.hideresult #questions .marker {
+	opacity: 0;
+}
+
+#blockshow {
+	display: none;
+}
+
+.hideresult #blockshow {
+	display: block;
+}
+
+.hideresult #blockreset {
+	display: none;
+}
+
+#blockreset div.col-xs-6 {
+	text-align: center;
+}
+
+#blockreset2 {
+	text-align: left;
+}
+
+.tooltip-inner {
+	max-width: 300px;
+	color: #444;
+	text-align: left;
+	text-decoration: none;
+	border: 1px solid #000000;
+	background-color: #ffffff;
+}
+
+a {
+	color: rgb(214,69,25);
+}
+
+a:hover,
+a:focus,
+a:active,
+a:visited {
+	color: rgb(154,69,25);
+}
+
+.btn-primary {
+	color: #ffffff;
+	background-color: rgb(214,69,25);
+	border-color: rgb(154,69,25);
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+	color: #ffffff;
+	background-color: rgb(154,69,25);
+	border-color: rgb(114,69,25);
+}
+
+@media (max-width: 767px) {
+	p.question, p.description {
+		text-align: left;
+	}
+		#questions .answer-col {
+		text-align: center;
+		margin-top: 10px
+	}
+		#questions .markerwrapper {
+		width: 235px;
+		margin: auto;
+	}
+}
+
