@@ -36,7 +36,7 @@ body {
 	color: #fff;
 	font-weight: bold;
 	margin-top: 0px;
-	font-size: 32px;
+	font-size: 30px;
 }
 
 #head h2 {
@@ -48,10 +48,21 @@ body {
 	margin-top: 10px;
 }
 
+.number {
+	position:absolute;
+	left: -100px;
+	top: -5px;
+	font-size:36px;
+	width:65px;
+	text-align:right;
+	color: rgba(0,0,0,0.1);
+}
+
 .tipp {
 	font-size: 12px;
 	color:#666666;
 	font-style: italic;
+	padding:50px;
 }
 
 a.socialshare img{
@@ -102,7 +113,7 @@ a.socialshare:hover {
 }
 
 #content {
-	padding-bottom: 150px;
+	padding-bottom: 80px;
 }
 
 #contact {
@@ -130,7 +141,6 @@ a.socialshare:hover {
 
 p.question {
 	margin: 0px;
-	padding-top: 5px;
 	font-size: 16px;
 	color: #444;
 	text-align: right;
@@ -221,7 +231,7 @@ p.description {
 	bottom: 0;
 	left: 0px;
 	right: 0px;
-	height: 265px;
+	height: 255px;
 	z-index: 100;
 
 	background: #e8c07b;
@@ -455,7 +465,7 @@ p.description {
 
 .partei.marked .barborder {
 	left: 10px;
-	top: 18px;
+	top: 22px;
 	width: 22px;
 	bottom: 42px;
 }
@@ -476,7 +486,7 @@ p.description {
 
 .partei.marked .title {
 	color: rgba(0,0,0,0.6);
-	left: 22px;
+	left: 21px;
 	bottom: 40px;
 }
 
@@ -489,7 +499,7 @@ p.description {
 }
 
 .hideresult #chartwrapper {
-	bottom: -265px;
+	bottom: -255px;
 }
 
 .hideresult #questions .marker {
@@ -556,13 +566,37 @@ a:visited {
 	p.question, p.description {
 		text-align: left;
 	}
-		#questions .answer-col {
+	#questions .answer-col {
 		text-align: center;
 		margin-top: 10px
 	}
-		#questions .markerwrapper {
+	#questions .markerwrapper {
 		width: 235px;
 		margin: auto;
+	}
+	#chartwrapper .help {
+		visibility: hidden;
+	}
+	#chartwrapper {
+		height: 210px;
+	}
+	.partei.marked {
+		height: 205px;
+	}
+	.partei.marked .barborder {
+		top: 16px;
+	}
+	.partei.marked .markers {
+		top: 2px;
+	}
+	#chartscroller {
+		height: 205px;
+	}
+	.hideresult #chartwrapper {
+		bottom: -210px;
+	}
+	#content {
+		padding-bottom: 0px;
 	}
 }
 

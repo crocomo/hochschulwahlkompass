@@ -11,7 +11,7 @@ var form;
 
 function init() {
 	setTimeout(function () {
-		if ($('body').scrollTop() < 300) $('html, body').animate({ scrollTop: 300 }, 500)
+		if ($('body').scrollTop() < 300) $('html, body').animate({ scrollTop: 0 }, 500)
 	}, 1000);
 
 	form = $('#questions');
@@ -24,19 +24,22 @@ function init() {
 			'<div class="questionbox clearfix" name="questionbox_'+index+'" >'+
 				'<div class="form-group">'+
 					'<div class="col-sm-7 col-md-8">'+
+						'<div class="number">'+(index+1)+'.</div>'+
 						'<p class="question">'+these.text+'</p>'+
 						(these.info === undefined?'':'<p class="description">'+these.info+'</p>')+
 					'</div>'+
 					'<div class="col-sm-5 col-md-4 answer-col">'+
 						'<div class="btn-group answer" data-toggle="buttons">'+
-							'<label id="label_'+index+'_1"  class="btn btn-default label_'+index+'"><input type="radio" name="answer_'+index+'" id="answer_'+index+'_1"  value="1" ><!--<span class="glyphicon glyphicon-thumbs-up"></span>--> Ja</label>'+
+							'<label id="label_'+index+'_1"  class="btn btn-default label_'+index+'"><input type="radio" name="answer_'+index+'" id="answer_'+index+'_1"  value="1" >Ja</label>'+
 							'<label id="label_'+index+'_0"  class="btn btn-default label_'+index+'"><input type="radio" name="answer_'+index+'" id="answer_'+index+'_0"  value="0" >Egal</label>'+
-							'<label id="label_'+index+'_-1" class="btn btn-default label_'+index+'"><input type="radio" name="answer_'+index+'" id="answer_'+index+'_-1" value="-1">Nein <!--<span class="glyphicon glyphicon-thumbs-down"></span>--></label>'+
+							'<label id="label_'+index+'_-1" class="btn btn-default label_'+index+'"><input type="radio" name="answer_'+index+'" id="answer_'+index+'_-1" value="-1">Nein</label>'+
 						'</div>'+
 						'<div class="important" data-toggle="buttons">'+
 							'<label class="btn btn-default" id="important_'+index+'"><input type="checkbox" name="important_'+index+'"><span class="glyphicon glyphicon-star"></span></label>'+
 						'</div>'+
-						'<div class="markerwrapper">'+
+						'<div class="markerwrapper" '+
+							(index==26?" id='commtipp' rel='popover' data-placement='left' data-content='Um die Begründungen der einzelnen Listen zu lesen, einfach bei den Fragen auf die entsprechende Farbpunkte klicken!' data-original-title='Begründungen anzeigen'":"")+
+'>'+
 							'<div class="markers"></div>'+
 							'<div class="markers"></div>'+
 							'<div class="markers"></div>'+
@@ -108,7 +111,10 @@ function init() {
 			$.each(wom.parteien, function (index, partei) {
 				if (parameters.selectedParties[index]) selected++;
 			});
-
+			$("#commtipp").popover('show');
+			setTimeout(function(){
+					$("#commtipp").popover('hide');
+				}, 7000);
 			$('body').removeClass('hideresult');
 
 			if (selected == 0) {
