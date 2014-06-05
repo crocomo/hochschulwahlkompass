@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="0.48.4 r9939"
+   version="1.1"
+   id="svg3034"
+   height="297mm"
+   width="210mm"
+   sodipodi:docname="wahlkompass.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3995495"
+     inkscape:cx="281.83298"
+     inkscape:cy="-24.904341"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1551"
+     inkscape:window-height="876"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3166" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3036" />
+  <metadata
+     id="metadata3039">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1"
+     style="display:inline">
+    <rect
+       style="fill:#ff940d;fill-opacity:1;stroke:none"
+       id="rect5422"
+       width="790.39758"
+       height="342.62885"
+       x="-47.006516"
+       y="420.21692"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=faui49p/home/cip/2009/uj66ojab/stuvomat/wahlomat_blog2.png"
+       inkscape:export-xdpi="61.490002"
+       inkscape:export-ydpi="61.490002" />
+    <path
+       transform="matrix(0.87854039,0,0,0.87854039,187.32503,-491.01478)"
+       d="m 361.63461,622.28973 a 78.53936,78.53936 0 1 1 -157.07872,0 78.53936,78.53936 0 1 1 157.07872,0 z"
+       sodipodi:ry="78.53936"
+       sodipodi:rx="78.53936"
+       sodipodi:cy="622.28973"
+       sodipodi:cx="283.09525"
+       id="path3789"
+       style="fill:none;stroke:#000000;stroke-width:13.65901852;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4559"
+       d="m 367.03564,-13.308112 138,137.999992"
+       style="fill:#d40000;stroke:#ff0000;stroke-width:12.00000095;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4559-8"
+       d="m 505.03564,-13.308112 -138,137.999992"
+       style="fill:#d40000;stroke:#ff0000;stroke-width:12.00000095;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <g
+       transform="matrix(1,0.49857939,0,1,15.714286,-352.98386)"
+       id="g4810">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         id="rect3125-2-51-9"
+         width="150"
+         height="150"
+         x="590"
+         y="193.07646" />
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:20.48852921;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 664.99912,216.07289 c -28.64774,0 -51.99861,23.35087 -51.99861,51.99861 0,28.64773 23.35087,51.9986 51.99861,51.9986 28.64774,0 51.99861,-23.35087 51.99861,-51.9986 0,-28.64774 -23.35087,-51.99861 -51.99861,-51.99861 z m 0,12.00672 c 22.16246,0 39.99189,17.82943 39.99189,39.99189 0,22.16245 -17.82943,40.01019 -39.99189,40.01019 -22.16246,0 -39.99189,-17.84774 -39.99189,-40.01019 0,-22.16246 17.82943,-39.99189 39.99189,-39.99189 z"
+         id="path3789-5-2"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4559-7-9-8"
+         d="m 619,222.07647 91.99999,91.99999"
+         style="fill:#d40000;stroke:#000000;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4559-8-2-7-9"
+         d="M 710.99999,222.07647 619,314.07646"
+         style="fill:#d40000;stroke:#000000;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:12.00000095;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 619,222.07647 92,92"
+         id="path4559-7-0"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#fefefe;stroke-width:12.00000095;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 711,222.07647 -92,92"
+         id="path4559-8-2-5"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5440"
+       transform="matrix(0.96861072,0,0,0.96861072,43.900657,6.245232)">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3042-0-0"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         transform="matrix(1.2401135,-0.620053,0.97036533,0.4851856,-471.44434,839.39838)"><flowRegion
+           id="flowRegion3044-0-5"><rect
+             id="rect3046-8-7"
+             width="1271.4286"
+             height="605.71429"
+             x="28.571428"
+             y="183.79076" /></flowRegion><flowPara
+           id="flowPara3050-7-54"
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:74.99999404%;letter-spacing:0px;text-anchor:middle;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue" /><flowPara
+           id="flowPara3052-1-3"
+           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:74.99999404%;letter-spacing:-0.44885179px;text-anchor:middle;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue Bold">wahl</flowPara></flowRoot>      <flowRoot
+         transform="matrix(1.3462233,-0.67310757,1.0657778,0.53289214,-625.69546,832.98953)"
+         xml:space="preserve"
+         id="flowRoot3042-2-8-0"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+           id="flowRegion3044-7-0-0"><rect
+             id="rect3046-9-5-8"
+             width="1271.4286"
+             height="605.71429"
+             x="28.571428"
+             y="183.79076" /></flowRegion><flowPara
+           id="flowPara3048-6-1-7"
+           style="font-size:78px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:74.99999404%;letter-spacing:0px;text-anchor:middle;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue" /><flowPara
+           id="flowPara3050-9-5-63"
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:74.99999404%;letter-spacing:-2.46671057px;text-anchor:middle;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue">schul</flowPara><flowPara
+           id="flowPara3052-3-0-1"
+           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:74.99999404%;letter-spacing:-0.20151673px;text-anchor:middle;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue" /></flowRoot>      <flowRoot
+         transform="matrix(1.2335132,-0.61675287,0.87570571,0.43785551,-503.4401,818.60944)"
+         xml:space="preserve"
+         id="flowRoot3042-9-0-8"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+           id="flowRegion3044-1-6-3"><rect
+             id="rect3046-92-6-0"
+             width="1271.4286"
+             height="605.71429"
+             x="28.571428"
+             y="183.79076" /></flowRegion><flowPara
+           id="flowPara3048-67-9-48"
+           style="font-size:78px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:74.99999404%;letter-spacing:0px;text-anchor:middle;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue">Hoch</flowPara><flowPara
+           id="flowPara3052-9-9-8"
+           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:74.99999404%;letter-spacing:0px;text-anchor:middle;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue" /></flowRoot>    </g>
+    <g
+       transform="matrix(0.96861072,0.48292934,0,0.96861072,113.1068,79.55954)"
+       id="g4818">
+      <g
+         id="g4760">
+        <rect
+           y="303.64795"
+           x="312.55692"
+           height="150"
+           width="150"
+           id="rect3125-2-51"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3789-5"
+           d="m 387.55603,326.64437 c -28.64774,0 -51.99861,23.35087 -51.99861,51.99861 0,28.64773 23.35087,51.9986 51.99861,51.9986 28.64774,0 51.99861,-23.35087 51.99861,-51.9986 0,-28.64774 -23.35087,-51.99861 -51.99861,-51.99861 z m 0,12.00672 c 22.16246,0 39.99189,17.82943 39.99189,39.99189 0,22.16245 -17.82943,40.01019 -39.99189,40.01019 -22.16246,0 -39.99189,-17.84774 -39.99189,-40.01019 0,-22.16246 17.82943,-39.99189 39.99189,-39.99189 z"
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20.48852921;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+        <path
+           style="fill:#d40000;stroke:#ffffff;stroke-width:20.64812851;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 341.55691,332.64795 91.99999,91.99999"
+           id="path4559-7-9"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#d40000;stroke:#ffffff;stroke-width:20.64812851;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 433.5569,332.64795 -91.99999,91.99999"
+           id="path4559-8-2-7"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4559-7"
+           d="m 341.55691,332.64795 92,92"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:12.38887978;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4559-8-2"
+           d="m 433.55691,332.64795 -92,92"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:12.38887978;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5573-1-7"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="matrix(1.9641181,0,0,1.9641181,262.83164,-335.51325)"><flowRegion
+         id="flowRegion5575-9-4"><rect
+           id="rect5577-79-2"
+           width="528.57141"
+           height="117.14286"
+           x="-147.14285"
+           y="466.64789"
+           style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue"
+         id="flowPara5779">Deine Wahl.</flowPara></flowRoot>    <g
+       id="g5976"
+       transform="translate(55.285537,-20)">
+      <flowRoot
+         transform="translate(104.64288,-10.203055)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         id="flowRoot5573-1-7-3"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5575-9-4-0"><rect
+             style="fill:#000000;fill-opacity:1"
+             y="466.64789"
+             x="-147.14285"
+             height="190.00003"
+             width="545.71429"
+             id="rect5577-79-2-2" /></flowRegion><flowPara
+           id="flowPara5814"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:115.99999666%;fill:#000000;fill-opacity:1;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue">Anwesenheitspflicht?</flowPara><flowPara
+           id="flowPara5820"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:115.99999666%;fill:#000000;fill-opacity:1;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue">Semesterticket?</flowPara><flowPara
+           id="flowPara5818"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:115.99999666%;fill:#000000;fill-opacity:1;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue">Zivilklausel?</flowPara></flowRoot>      <rect
+         y="467.53986"
+         x="-76.343567"
+         height="20.357143"
+         width="20.357143"
+         id="rect5824"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         y="513.62128"
+         x="-76.343567"
+         height="20.357143"
+         width="20.357143"
+         id="rect5824-1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
+      <rect
+         y="560.06787"
+         x="-76.343567"
+         height="20.357143"
+         width="20.357143"
+         id="rect5824-9"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
+    </g>
+    <rect
+       style="fill:#ff940d;fill-opacity:1;stroke:none;display:inline"
+       id="rect5422-9"
+       width="1074.428"
+       height="558.34308"
+       x="-204.35686"
+       y="1014.6192"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=faui49p/home/cip/2009/uj66ojab/stuvomat/wahlomat2b.png"
+       inkscape:export-xdpi="83.769997"
+       inkscape:export-ydpi="83.769997" />
+    <g
+       id="g5440-8"
+       transform="translate(124.21094,657.83084)">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3042-0-0-9"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         transform="matrix(1.2401135,-0.620053,0.97036533,0.4851856,-471.44434,839.39838)"><flowRegion
+           id="flowRegion3044-0-5-1"><rect
+             id="rect3046-8-7-9"
+             width="1271.4286"
+             height="605.71429"
+             x="28.571428"
+             y="183.79076" /></flowRegion><flowPara
+           id="flowPara3050-7-54-0"
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:74.99999404%;letter-spacing:0px;text-anchor:middle;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue" /><flowPara
+           id="flowPara3052-1-3-7"
+           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:74.99999404%;letter-spacing:-0.44885179px;text-anchor:middle;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue Bold">wahl</flowPara></flowRoot>      <flowRoot
+         transform="matrix(1.3462233,-0.67310757,1.0657778,0.53289214,-625.69546,832.98953)"
+         xml:space="preserve"
+         id="flowRoot3042-2-8-0-1"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+           id="flowRegion3044-7-0-0-8"><rect
+             id="rect3046-9-5-8-6"
+             width="1271.4286"
+             height="605.71429"
+             x="28.571428"
+             y="183.79076" /></flowRegion><flowPara
+           id="flowPara3048-6-1-7-9"
+           style="font-size:78px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:74.99999404%;letter-spacing:0px;text-anchor:middle;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue" /><flowPara
+           id="flowPara3050-9-5-63-9"
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:74.99999404%;letter-spacing:-2.46671057px;text-anchor:middle;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue">schul</flowPara><flowPara
+           id="flowPara3052-3-0-1-5"
+           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:74.99999404%;letter-spacing:-0.20151673px;text-anchor:middle;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue" /></flowRoot>      <flowRoot
+         transform="matrix(1.2335132,-0.61675287,0.87570571,0.43785551,-503.4401,818.60944)"
+         xml:space="preserve"
+         id="flowRoot3042-9-0-8-2"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+           id="flowRegion3044-1-6-3-3"><rect
+             id="rect3046-92-6-0-0"
+             width="1271.4286"
+             height="605.71429"
+             x="28.571428"
+             y="183.79076" /></flowRegion><flowPara
+           id="flowPara3048-67-9-48-2"
+           style="font-size:78px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:74.99999404%;letter-spacing:0px;text-anchor:middle;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue">Hoch</flowPara><flowPara
+           id="flowPara3052-9-9-8-2"
+           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:74.99999404%;letter-spacing:0px;text-anchor:middle;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue" /></flowRoot>    </g>
+    <g
+       transform="matrix(1,0.49857939,0,1,195.65981,733.52101)"
+       id="g4818-7">
+      <g
+         id="g4760-2">
+        <rect
+           y="303.64795"
+           x="312.55692"
+           height="150"
+           width="150"
+           id="rect3125-2-51-8"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3789-5-5"
+           d="m 387.55603,326.64437 c -28.64774,0 -51.99861,23.35087 -51.99861,51.99861 0,28.64773 23.35087,51.9986 51.99861,51.9986 28.64774,0 51.99861,-23.35087 51.99861,-51.9986 0,-28.64774 -23.35087,-51.99861 -51.99861,-51.99861 z m 0,12.00672 c 22.16246,0 39.99189,17.82943 39.99189,39.99189 0,22.16245 -17.82943,40.01019 -39.99189,40.01019 -22.16246,0 -39.99189,-17.84774 -39.99189,-40.01019 0,-22.16246 17.82943,-39.99189 39.99189,-39.99189 z"
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20.48852921;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+        <path
+           style="fill:#d40000;stroke:#ffffff;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 341.55691,332.64795 91.99999,91.99999"
+           id="path4559-7-9-4"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#d40000;stroke:#ffffff;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 433.5569,332.64795 -91.99999,91.99999"
+           id="path4559-8-2-7-91"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4559-7-4"
+           d="m 341.55691,332.64795 92,92"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:12.00000095;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4559-8-2-4"
+           d="m 433.55691,332.64795 -92,92"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:12.00000095;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+    </g>
+    <g
+       transform="translate(81.305484,701.0525)"
+       style="display:inline"
+       id="g4940-3">
+      <g
+         id="g4681-6">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot5573-7"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           transform="translate(123.65822,208.75242)"><flowRegion
+             id="flowRegion5575-5"><rect
+               id="rect5577-6"
+               width="528.57141"
+               height="117.14286"
+               x="-147.14285"
+               y="466.64789" /></flowRegion><flowPara
+             id="flowPara5579-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue">Am 25. Juni ist Hochschulwahl.</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot5573-8-9"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+           transform="matrix(1.0644392,0,0,1.0644392,132.64425,219.14513)"><flowRegion
+             id="flowRegion5575-4-44"><rect
+               id="rect5577-7-6"
+               width="528.57141"
+               height="117.14286"
+               x="-147.14285"
+               y="466.64789" /></flowRegion><flowPara
+             id="flowPara5579-4-1"
+             style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue">Informier' Dich auf www.hochschulwahlkompass.de</flowPara></flowRoot>      </g>
+      <g
+         id="g4681-7-9"
+         style="fill:#ffffff;display:inline"
+         transform="translate(1.130442,1.654341)">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot5573-4-9"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           transform="translate(123.65822,208.75242)"><flowRegion
+             id="flowRegion5575-8-1"><rect
+               style="fill:#ffffff"
+               id="rect5577-2-9"
+               width="528.57141"
+               height="117.14286"
+               x="-147.14285"
+               y="466.64789" /></flowRegion><flowPara
+             id="flowPara5579-3-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue">Am 25. Juni ist Hochschulwahl.</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot5573-8-0-3"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+           transform="matrix(1.0644392,0,0,1.0644392,132.64425,219.14513)"><flowRegion
+             id="flowRegion5575-4-2-2"><rect
+               style="fill:#ffffff"
+               id="rect5577-7-5-9"
+               width="528.57141"
+               height="117.14286"
+               x="-147.14285"
+               y="466.64789" /></flowRegion><flowPara
+             id="flowPara5579-4-20-0"
+             style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue">Informier' Dich auf www.hochschulwahlkompass.de</flowPara></flowRoot>      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5573-1-7-0"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="matrix(1.9641181,0,0,1.9641181,456.62417,312.30738)"><flowRegion
+         id="flowRegion5575-9-4-7"><rect
+           id="rect5577-79-2-21"
+           width="528.57141"
+           height="117.14286"
+           x="-147.14285"
+           y="466.64789"
+           style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue"
+         id="flowPara5779-6">Deine Wahl.</flowPara></flowRoot>    <g
+       style="display:inline"
+       id="g5976-3"
+       transform="translate(-82.064797,652.11655)">
+      <flowRoot
+         transform="translate(104.64288,-10.203055)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         id="flowRoot5573-1-7-3-7"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5575-9-4-0-5"><rect
+             style="fill:#000000;fill-opacity:1"
+             y="466.64789"
+             x="-147.14285"
+             height="190.00003"
+             width="545.71429"
+             id="rect5577-79-2-2-7" /></flowRegion><flowPara
+           id="flowPara5814-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:115.99999666%;fill:#000000;fill-opacity:1;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue">Anwesenheitspflicht?</flowPara><flowPara
+           id="flowPara5820-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:115.99999666%;fill:#000000;fill-opacity:1;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue">Semesterticket?</flowPara><flowPara
+           id="flowPara5818-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:115.99999666%;fill:#000000;fill-opacity:1;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue">Zivilklausel?</flowPara></flowRoot>      <rect
+         y="467.53986"
+         x="-76.343567"
+         height="20.357143"
+         width="20.357143"
+         id="rect5824-8"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         y="513.62128"
+         x="-76.343567"
+         height="20.357143"
+         width="20.357143"
+         id="rect5824-1-6"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
+      <rect
+         y="560.06787"
+         x="-76.343567"
+         height="20.357143"
+         width="20.357143"
+         id="rect5824-9-3"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
+    </g>
+    <g
+       id="g4206"
+       transform="translate(703.05344,-91.603053)">
+      <g
+         id="g4098">
+        <rect
+           y="46.979507"
+           x="-97.202965"
+           height="150"
+           width="150"
+           id="rect3125-2"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+        <g
+           id="g4081"
+           transform="matrix(0.74309329,0,0,0.74309329,149.33216,-55.252736)">
+          <g
+             transform="translate(-1.4503793,0)"
+             id="g4026">
+            <g
+               id="g3998"
+               transform="translate(0.6110875,-4.3765044)">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3170"
+                 d="m -260,242.3825 30,-91.11168 30,91.11168 z"
+                 style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.34572601px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3996"
+                 d="m -230,242.36218 0,-90 -30,90 z"
+                 style="fill:#ffffff;fill-opacity:1;stroke:none" />
+            </g>
+            <g
+               transform="matrix(-1,0,0,-1,-459.38891,481.3886)"
+               style="display:inline"
+               id="g3998-2">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3170-2"
+                 d="m -260,242.3825 30,-91.11168 30,91.11168 z"
+                 style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.34572601px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3996-1"
+                 d="m -230,242.36218 0,-90 -30,90 z"
+                 style="fill:#ffffff;fill-opacity:1;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g4026-1"
+             style="display:inline"
+             transform="matrix(0,1,-1,0,7.6667573,467.89496)">
+            <g
+               id="g3998-9"
+               transform="translate(0.6110875,-4.3765044)">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3170-27"
+                 d="m -260,242.3825 30,-91.11168 30,91.11168 z"
+                 style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.34572601px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3996-2"
+                 d="m -230,242.36218 0,-90 -30,90 z"
+                 style="fill:#ffffff;fill-opacity:1;stroke:none" />
+            </g>
+            <g
+               transform="matrix(-1,0,0,-1,-459.38891,481.3886)"
+               style="display:inline"
+               id="g3998-2-1">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3170-2-1"
+                 d="m -260,242.3825 30,-91.11168 30,91.11168 z"
+                 style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.34572601px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3996-1-3"
+                 d="m -230,242.36218 0,-90 -30,90 z"
+                 style="fill:#ffffff;fill-opacity:1;stroke:none" />
+            </g>
+          </g>
+          <path
+             transform="translate(-0.8392905,-3.8561348)"
+             sodipodi:open="true"
+             sodipodi:end="10.995574"
+             sodipodi:start="4.712389"
+             d="m -230,172.36218 c 38.65993,0 70,31.34007 70,70 0,38.65994 -31.34007,70 -70,70 -38.65993,0 -70,-31.34007 -70,-70 0,-38.65992 31.34006,-69.99999 69.99998,-70"
+             sodipodi:ry="70"
+             sodipodi:rx="70"
+             sodipodi:cy="242.36218"
+             sodipodi:cx="-230"
+             id="path3168"
+             style="fill:#ffffff;fill-opacity:1;stroke:none"
+             sodipodi:type="arc" />
+        </g>
+      </g>
+      <flowRoot
+         transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,36.561947,19.863916)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f2f2f2;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         id="flowRoot4117-1"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4119-3"><rect
+             style="fill:#f2f2f2"
+             y="94.346916"
+             x="-77.862595"
+             height="133.58778"
+             width="244.27481"
+             id="rect4121-82" /></flowRegion><flowPara
+           style="font-size:33px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#f2f2f2;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue"
+           id="flowPara4123-1">KOMPASS</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.98480775,0.17364818,-0.17364818,0.98480775,27.460594,15.124842)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         id="flowRoot4117-5-5"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4119-1-3"><rect
+             style="fill:#cccccc"
+             y="94.346916"
+             x="-77.862595"
+             height="133.58778"
+             width="244.27481"
+             id="rect4121-8-3" /></flowRegion><flowPara
+           style="font-size:33px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue"
+           id="flowPara4123-8-6">KOMPASS</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.9961947,0.08715574,-0.08715574,0.9961947,17.98127,11.198996)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         id="flowRoot4117-5"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4119-1"><rect
+             style="fill:#808080"
+             y="94.346916"
+             x="-77.862595"
+             height="133.58778"
+             width="244.27481"
+             id="rect4121-8" /></flowRegion><flowPara
+           style="font-size:33px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue"
+           id="flowPara4123-8">KOMPASS</flowPara></flowRoot>      <flowRoot
+         transform="translate(8.1961212,8.2482574)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot4117"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4119"><rect
+             y="94.346916"
+             x="-77.862595"
+             height="133.58778"
+             width="244.27481"
+             id="rect4121" /></flowRegion><flowPara
+           style="font-size:33px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue"
+           id="flowPara4123">KOMPASS</flowPara></flowRoot>    </g>
+    <g
+       id="g4588"
+       transform="matrix(0.97721333,-0.48721843,0,0.97721333,169.99399,965.20989)"
+       style="opacity:1">
+      <g
+         transform="translate(514.56937,-216.94557)"
+         id="g4098-9">
+        <rect
+           y="46.979507"
+           x="-97.202965"
+           height="150"
+           width="150"
+           id="rect3125-2-6"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+        <g
+           id="g4081-4"
+           transform="matrix(0.74309329,0,0,0.74309329,149.33216,-55.252736)">
+          <g
+             transform="translate(-1.4503793,0)"
+             id="g4026-5">
+            <g
+               id="g3998-5"
+               transform="translate(0.6110875,-4.3765044)">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3170-9"
+                 d="m -260,242.3825 30,-91.11168 30,91.11168 z"
+                 style="fill:#000000;fill-opacity:1;stroke:#ff940f;stroke-width:1.37710570999999993px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.94117647000000004" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3996-5"
+                 d="m -230,242.36218 0,-90 -30,90 z"
+                 style="fill:#ff940f;fill-opacity:0.94117647000000004;stroke:none" />
+            </g>
+            <g
+               transform="matrix(-1,0,0,-1,-459.38891,481.3886)"
+               style="display:inline"
+               id="g3998-2-7">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3170-2-2"
+                 d="m -260,242.3825 30,-91.11168 30,91.11168 z"
+                 style="fill:#000000;fill-opacity:1;stroke:#ff940f;stroke-width:1.37710570999999993px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.94117647000000004" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3996-1-0"
+                 d="m -230,242.36218 0,-90 -30,90 z"
+                 style="fill:#ff940f;fill-opacity:0.94117647000000004;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g4026-1-2"
+             style="display:inline"
+             transform="matrix(0,1,-1,0,7.6667573,467.89496)">
+            <g
+               id="g3998-9-0"
+               transform="translate(0.6110875,-4.3765044)">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3170-27-6"
+                 d="m -260,242.3825 30,-91.11168 30,91.11168 z"
+                 style="fill:#000000;fill-opacity:1;stroke:#ff940f;stroke-width:1.37710570999999993px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.94117647000000004" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3996-2-5"
+                 d="m -230,242.36218 0,-90 -30,90 z"
+                 style="fill:#ff940f;fill-opacity:0.94117647000000004;stroke:none" />
+            </g>
+            <g
+               transform="matrix(-1,0,0,-1,-459.38891,481.3886)"
+               style="display:inline"
+               id="g3998-2-1-0">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3170-2-1-1"
+                 d="m -260,242.3825 30,-91.11168 30,91.11168 z"
+                 style="fill:#000000;fill-opacity:1;stroke:#ff940f;stroke-width:1.37710570999999993px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.94117647000000004" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3996-1-3-1"
+                 d="m -230,242.36218 0,-90 -30,90 z"
+                 style="fill:#ff940f;fill-opacity:0.94117647000000004;stroke:none" />
+            </g>
+          </g>
+          <path
+             transform="translate(-0.8392905,-3.8561348)"
+             sodipodi:open="true"
+             sodipodi:end="10.995574"
+             sodipodi:start="4.712389"
+             d="m -230,172.36218 c 38.65993,0 70,31.34007 70,70 0,38.65994 -31.34007,70 -70,70 -38.65993,0 -70,-31.34007 -70,-70 0,-38.65992 31.34006,-69.99999 69.99998,-70"
+             sodipodi:ry="70"
+             sodipodi:rx="70"
+             sodipodi:cy="242.36218"
+             sodipodi:cx="-230"
+             id="path3168-2"
+             style="fill:#ff940f;fill-opacity:1;stroke:none"
+             sodipodi:type="arc" />
+        </g>
+      </g>
+      <flowRoot
+         transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,551.13132,-197.08165)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.12500000000000000;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         id="flowRoot4117-1-3"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4119-3-3"><rect
+             style="fill:#000000;fill-opacity:1"
+             y="94.346916"
+             x="-77.862595"
+             height="133.58778"
+             width="244.27481"
+             id="rect4121-82-0" /></flowRegion><flowPara
+           style="font-size:33px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue"
+           id="flowPara4123-1-3">KOMPASS</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.98480775,0.17364818,-0.17364818,0.98480775,542.02996,-201.82073)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.25000000000000000;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         id="flowRoot4117-5-5-5"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4119-1-3-8"><rect
+             style="fill:#000000;fill-opacity:1"
+             y="94.346916"
+             x="-77.862595"
+             height="133.58778"
+             width="244.27481"
+             id="rect4121-8-3-4" /></flowRegion><flowPara
+           style="font-size:33px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue"
+           id="flowPara4123-8-6-7">KOMPASS</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.9961947,0.08715574,-0.08715574,0.9961947,532.55064,-205.74657)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.50000000000000000;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         id="flowRoot4117-5-1"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4119-1-6"><rect
+             style="fill:#000000;fill-opacity:1"
+             y="94.346916"
+             x="-77.862595"
+             height="133.58778"
+             width="244.27481"
+             id="rect4121-8-9" /></flowRegion><flowPara
+           style="font-size:33px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue"
+           id="flowPara4123-8-1">KOMPASS</flowPara></flowRoot>      <flowRoot
+         transform="translate(522.76549,-208.69731)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot4117-3"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4119-0"><rect
+             y="94.346916"
+             x="-77.862595"
+             height="133.58778"
+             width="244.27481"
+             id="rect4121-7" /></flowRegion><flowPara
+           style="font-size:33px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue"
+           id="flowPara4123-9">KOMPASS</flowPara></flowRoot>    </g>
+    <g
+       id="g4940">
+      <g
+         id="g4681">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot5573"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           transform="translate(123.65822,208.75242)"><flowRegion
+             id="flowRegion5575"><rect
+               id="rect5577"
+               width="528.57141"
+               height="117.14286"
+               x="-147.14285"
+               y="466.64789" /></flowRegion><flowPara
+             id="flowPara5579"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue">Am 25. Juni ist Hochschulwahl.</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot5573-8"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+           transform="matrix(1.0644392,0,0,1.0644392,132.64425,219.14513)"><flowRegion
+             id="flowRegion5575-4"><rect
+               id="rect5577-7"
+               width="528.57141"
+               height="117.14286"
+               x="-147.14285"
+               y="466.64789" /></flowRegion><flowPara
+             id="flowPara5579-4"
+             style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue">Informier' Dich auf www.hochschulwahlkompass.de</flowPara></flowRoot>      </g>
+      <g
+         id="g4681-7"
+         style="fill:#ffffff;display:inline"
+         transform="translate(1.130442,1.654341)">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot5573-4"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           transform="translate(123.65822,208.75242)"><flowRegion
+             id="flowRegion5575-8"><rect
+               style="fill:#ffffff"
+               id="rect5577-2"
+               width="528.57141"
+               height="117.14286"
+               x="-147.14285"
+               y="466.64789" /></flowRegion><flowPara
+             id="flowPara5579-3"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue">Am 25. Juni ist Hochschulwahl.</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot5573-8-0"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+           transform="matrix(1.0644392,0,0,1.0644392,132.64425,219.14513)"><flowRegion
+             id="flowRegion5575-4-2"><rect
+               style="fill:#ffffff"
+               id="rect5577-7-5"
+               width="528.57141"
+               height="117.14286"
+               x="-147.14285"
+               y="466.64789" /></flowRegion><flowPara
+             id="flowPara5579-4-20"
+             style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue">Informier' Dich auf www.hochschulwahlkompass.de</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g4588-0"
+       transform="matrix(1.0088867,-0.5030101,0,1.0088867,254.38858,1647.8732)"
+       style="display:inline">
+      <g
+         transform="translate(514.56937,-216.94557)"
+         id="g4098-9-3">
+        <rect
+           y="46.979507"
+           x="-97.202965"
+           height="150"
+           width="150"
+           id="rect3125-2-6-4"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+        <g
+           id="g4081-4-4"
+           transform="matrix(0.74309329,0,0,0.74309329,149.33216,-55.252736)">
+          <g
+             transform="translate(-1.4503793,0)"
+             id="g4026-5-7">
+            <g
+               id="g3998-5-7"
+               transform="translate(0.6110875,-4.3765044)">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3170-9-7"
+                 d="m -260,242.3825 30,-91.11168 30,91.11168 z"
+                 style="fill:#000000;fill-opacity:1;stroke:#ff940f;stroke-width:1.33387244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.94117647" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3996-5-7"
+                 d="m -230,242.36218 0,-90 -30,90 z"
+                 style="fill:#ff940f;fill-opacity:0.94117647;stroke:none" />
+            </g>
+            <g
+               transform="matrix(-1,0,0,-1,-459.38891,481.3886)"
+               style="display:inline"
+               id="g3998-2-7-0">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3170-2-2-3"
+                 d="m -260,242.3825 30,-91.11168 30,91.11168 z"
+                 style="fill:#000000;fill-opacity:1;stroke:#ff940f;stroke-width:1.33387244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.94117647" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3996-1-0-8"
+                 d="m -230,242.36218 0,-90 -30,90 z"
+                 style="fill:#ff940f;fill-opacity:0.94117647;stroke:none" />
+            </g>
+          </g>
+          <g
+             id="g4026-1-2-6"
+             style="display:inline"
+             transform="matrix(0,1,-1,0,7.6667573,467.89496)">
+            <g
+               id="g3998-9-0-2"
+               transform="translate(0.6110875,-4.3765044)">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3170-27-6-9"
+                 d="m -260,242.3825 30,-91.11168 30,91.11168 z"
+                 style="fill:#000000;fill-opacity:1;stroke:#ff940f;stroke-width:1.33387244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.94117647" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3996-2-5-4"
+                 d="m -230,242.36218 0,-90 -30,90 z"
+                 style="fill:#ff940f;fill-opacity:0.94117647;stroke:none" />
+            </g>
+            <g
+               transform="matrix(-1,0,0,-1,-459.38891,481.3886)"
+               style="display:inline"
+               id="g3998-2-1-0-3">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3170-2-1-1-2"
+                 d="m -260,242.3825 30,-91.11168 30,91.11168 z"
+                 style="fill:#000000;fill-opacity:1;stroke:#ff940f;stroke-width:1.33387244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.94117647" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3996-1-3-1-7"
+                 d="m -230,242.36218 0,-90 -30,90 z"
+                 style="fill:#ff940f;fill-opacity:0.94117647;stroke:none" />
+            </g>
+          </g>
+          <path
+             transform="translate(-0.8392905,-3.8561348)"
+             sodipodi:open="true"
+             sodipodi:end="10.995574"
+             sodipodi:start="4.712389"
+             d="m -230,172.36218 c 38.65993,0 70,31.34007 70,70 0,38.65994 -31.34007,70 -70,70 -38.65993,0 -70,-31.34007 -70,-70 0,-38.65992 31.34006,-69.99999 69.99998,-70"
+             sodipodi:ry="70"
+             sodipodi:rx="70"
+             sodipodi:cy="242.36218"
+             sodipodi:cx="-230"
+             id="path3168-2-3"
+             style="fill:#ff940f;fill-opacity:1;stroke:none"
+             sodipodi:type="arc" />
+        </g>
+      </g>
+      <flowRoot
+         transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,551.13132,-197.08165)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.125;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         id="flowRoot4117-1-3-1"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4119-3-3-6"><rect
+             style="fill:#000000;fill-opacity:1"
+             y="94.346916"
+             x="-77.862595"
+             height="133.58778"
+             width="244.27481"
+             id="rect4121-82-0-1" /></flowRegion><flowPara
+           style="font-size:33px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue"
+           id="flowPara4123-1-3-7">KOMPASS</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.98480775,0.17364818,-0.17364818,0.98480775,542.02996,-201.82073)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         id="flowRoot4117-5-5-5-7"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4119-1-3-8-5"><rect
+             style="fill:#000000;fill-opacity:1"
+             y="94.346916"
+             x="-77.862595"
+             height="133.58778"
+             width="244.27481"
+             id="rect4121-8-3-4-1" /></flowRegion><flowPara
+           style="font-size:33px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue"
+           id="flowPara4123-8-6-7-7">KOMPASS</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.9961947,0.08715574,-0.08715574,0.9961947,532.55064,-205.74657)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         id="flowRoot4117-5-1-0"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4119-1-6-8"><rect
+             style="fill:#000000;fill-opacity:1"
+             y="94.346916"
+             x="-77.862595"
+             height="133.58778"
+             width="244.27481"
+             id="rect4121-8-9-2" /></flowRegion><flowPara
+           style="font-size:33px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue"
+           id="flowPara4123-8-1-0">KOMPASS</flowPara></flowRoot>      <flowRoot
+         transform="translate(522.76549,-208.69731)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot4117-3-9"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4119-0-7"><rect
+             y="94.346916"
+             x="-77.862595"
+             height="133.58778"
+             width="244.27481"
+             id="rect4121-7-6" /></flowRegion><flowPara
+           style="font-size:33px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bebas Neue;-inkscape-font-specification:Bebas Neue"
+           id="flowPara4123-9-5">KOMPASS</flowPara></flowRoot>    </g>
+  </g>
+</svg>
